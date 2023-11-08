@@ -1,12 +1,12 @@
 <div align="center">
   
-# Blind Samurai O Jogo
+# BLind samurai O Game (BLOG)
 nome oficial do jogo em breve...
 
 </div>
 
 ## Sobre este repositório
-*o lucas quem é esse brabo aí "blind samurai o jogo"? te explico amigão vem comigo*
+*o lucas quem é esse brabo aí "blind samurai o game"? te explico amigão vem comigo*
 
 ### O projeto
 
